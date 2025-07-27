@@ -1,2 +1,2 @@
 Line 1
-BUG: Insecure default
+FIX: Secure default
